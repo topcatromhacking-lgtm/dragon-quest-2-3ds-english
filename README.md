@@ -4,7 +4,7 @@ An English patch for the Japanese Nintendo 3DS release of Dragon Quest II, assem
 
 ## Status
 
-Beta testing. The opening narration and companion naming changes have been tested in Azahar. A full playthrough and testing on real Nintendo 3DS hardware remain pending. The first public beta is planned as **v0.90**.
+**Beta v0.90.** The opening narration and companion naming changes have been tested in Azahar. A full playthrough and testing on real Nintendo 3DS hardware remain pending.
 
 ## What is translated
 
@@ -16,7 +16,9 @@ Default-name changes apply to new Adventure Logs. Names already stored in existi
 
 ## Downloads and installation
 
-The beta ZIP will be available through this repository's [Releases page](https://github.com/topcatromhacking-lgtm/dragon-quest-2-3ds-english/releases). You need your own copy of the Japanese Nintendo 3DS game. The same patch files work with Azahar and Luma3DS.
+[**Download the DQ2 English beta v0.90 patch**](https://github.com/topcatromhacking-lgtm/dragon-quest-2-3ds-english/releases/download/v0.90/DQ2_3DS_English_v0.90_Beta_TopCatHack.zip)
+
+The ZIP includes detailed installation instructions in `README.txt`. You need your own copy of the Japanese Nintendo 3DS game. The same patch files work with Azahar and Luma3DS.
 
 ### Azahar
 
@@ -43,6 +45,14 @@ Hold SELECT while powering on, enable **Enable game patching**, and save the con
 ### Updating or disabling the patch
 
 Stop the game before replacing files and back up your normal saves. Remove an old `code.bin` override from this game's patch folder before using `code.ips`. To disable the translation, move this game's `code.ips` and `romfs` folder out of the patch location.
+
+### Package checksum
+
+SHA-256 for `DQ2_3DS_English_v0.90_Beta_TopCatHack.zip`:
+
+```text
+f87c76bad089732aea1b21e188cfe20cecbab478d9f1d6c6d529f623a61abcdd
+```
 
 ## Known issues and TODO
 
