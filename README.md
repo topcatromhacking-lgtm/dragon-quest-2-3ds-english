@@ -60,6 +60,30 @@ Some longer messages and descriptions may overflow or overlap. Japanese remains 
 
 Complete playthrough testing, verify Luma3DS compatibility on real hardware, correct overflow and spacing, translate the remaining title graphic and staff credits, and finalize credits and release documentation.
 
+## Screenshots
+
+Screenshots from the DQ2 beta running in Azahar.
+
+| Title menu | Opening narration |
+| --- | --- |
+| ![Title menu](screenshots/01.png) | ![English opening narration](screenshots/02.png) |
+
+| Dialogue and map | Companion names |
+| --- | --- |
+| ![Dialogue with the world map](screenshots/03.png) | ![English companion names](screenshots/04.png) |
+
+| Status and equipment | Item shop |
+| --- | --- |
+| ![Status and equipment](screenshots/05.png) | ![Item shop and descriptions](screenshots/06.png) |
+
+| Battle | Church |
+| --- | --- |
+| ![Battle menus](screenshots/07.png) | ![Church services](screenshots/08.png) |
+
+| Equipment shop | Story dialogue |
+| --- | --- |
+| ![Equipment shop](screenshots/09.png) | ![Story dialogue](screenshots/10.png) |
+
 ## Reporting problems
 
 [Open an issue](https://github.com/topcatromhacking-lgtm/dragon-quest-2-3ds-english/issues/new) with the patch version, location, steps to reproduce the problem, and a screenshot. For freezes, a normal in-game save made before the problem is especially helpful. When reporting naming problems, mention whether you used a new Adventure Log or an existing save.
