@@ -31,11 +31,11 @@ Launch the Japanese game normally.
 
 ### Luma3DS (Nintendo 3DS / 2DS)
 
-With the console powered off, place the patch files on the SD card under the game's actual 16-character Title ID. You can check this ID in the game's Properties in Azahar.
+With the console powered off, place the patch files on the SD card under the game's Title ID. Dragon Quest II's Japanese Title ID is `00040000001C3800`.
 
 ```text
-SD:/luma/titles/<TITLEID>/code.ips
-SD:/luma/titles/<TITLEID>/romfs/retro2_res.dat
+SD:/luma/titles/00040000001C3800/code.ips
+SD:/luma/titles/00040000001C3800/romfs/retro2_res.dat
 ```
 
 Hold SELECT while powering on, enable **Enable game patching**, and save the configuration with START. Launch the installed Japanese game from the HOME Menu. Real hardware testing remains pending.
